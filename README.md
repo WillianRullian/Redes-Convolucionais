@@ -47,6 +47,5 @@ Para executar este projeto, siga os passos abaixo:
 - **Jupyter Notebook**: Ambiente interativo para execução do código.
 
 ## Colaboradores
-- **Nome do Autor 1**: Maick Vieira Alves.
-   https://github.com/MaickCross
+- **Maick Vieira Alves**: https://github.com/MaickCross
 
