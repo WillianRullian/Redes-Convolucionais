@@ -46,10 +46,7 @@ Para executar este projeto, siga os passos abaixo:
 - **Matplotlib/Seaborn**: Bibliotecas de visualização de dados.
 - **Jupyter Notebook**: Ambiente interativo para execução do código.
 
-## Autores e Colaboradores
-- **Nome do Autor 1**: Desenvolvimento do modelo e implementação do pipeline.
-- **Nome do Autor 2**: Análise de dados e avaliação de métricas.
-- **Nome do Autor 3**: Documentação e revisão do código.
-
-Se você deseja contribuir para este projeto, envie um pull request ou entre em contato com os autores.
+## Colaboradores
+- **Nome do Autor 1**: Maick Vieira Alves.
+   https://github.com/MaickCross
 
