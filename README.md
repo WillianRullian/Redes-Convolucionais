@@ -1,27 +1,55 @@
 # Implementação e Análise de Classificação com Redes Convolucionais e o dataset CUFS
 
-Inserir um título claro para o seu projeto.
+## Descrição do Projeto
+Este projeto utiliza uma Rede Neural Convolucional (CNN) para classificação de imagens. O objetivo principal é realizar previsões baseadas em imagens de entrada, aplicando técnicas modernas de aprendizado profundo e redes neurais. O projeto foi desenvolvido como uma aplicação prática de conceitos de machine learning para resolver problemas de classificação binária.
 
-# Descrição do Projeto
+## Instalação
+Para executar este projeto, siga os passos abaixo:
 
-Inclua um pequeno resumo sobre o que o projeto faz e qual o seu objetivo principal. Isso ajuda quem está vendo pela primeira vez a entender do que se trata.
+1. Clone o repositório:
+   ```bash
+   git clone https://github.com/seu-usuario/nome-do-repositorio.git
+   ```
+2. Instale as dependências necessárias:
+   ```bash
+   pip install -r requirements.txt
+   ```
+   Certifique-se de que as bibliotecas listadas no arquivo `requirements.txt` estejam instaladas.
 
-# Instalação
+3. Certifique-se de ter o ambiente configurado para executar Jupyter Notebooks:
+   ```bash
+   pip install notebook
+   ```
 
-Explique como instalar ou preparar o ambiente para rodar o projeto. Pode incluir links, comandos para clonar o repositório, e a instalação das dependências necessárias.
+## Como Executar
+1. Abra o arquivo do projeto:
+   ```bash
+   jupyter notebook CNN_1_15.ipynb
+   ```
 
-# Como Executar
+2. Siga as células sequencialmente no notebook para:
+   - Processar os dados de entrada.
+   - Treinar a Rede Neural Convolucional.
+   - Avaliar o desempenho do modelo com base nas métricas exibidas.
 
-Adicione um passo a passo detalhado de como rodar o código. Isso pode incluir instruções de linha de comando, parâmetros necessários e exemplos.
+3. Para reproduzir o modelo, forneça imagens no formato correto, conforme especificado no notebook.
 
-# Estrutura dos Arquivos
+## Estrutura dos Arquivos
+- `CNN_1_15.ipynb`: Arquivo principal do projeto contendo o código e as análises.
+- `README.md`: Este arquivo, com informações sobre o projeto.
+- `requirements.txt`: Lista de dependências Python necessárias para executar o projeto.
 
-Uma breve descrição sobre as pastas e arquivos principais do projeto. Por exemplo, "A pasta /src contém o código-fonte, enquanto /docs contém o relatório".
+## Tecnologias Utilizadas
+- **Python**: Linguagem de programação principal.
+- **TensorFlow/Keras**: Framework para construção e treinamento de redes neurais.
+- **Scikit-learn**: Ferramentas para avaliação e processamento de dados.
+- **Matplotlib/Seaborn**: Bibliotecas de visualização de dados.
+- **Jupyter Notebook**: Ambiente interativo para execução do código.
 
-# Tecnologias Utilizadas
+## Autores e Colaboradores
+- **Nome do Autor 1**: Desenvolvimento do modelo e implementação do pipeline.
+- **Nome do Autor 2**: Análise de dados e avaliação de métricas.
+- **Nome do Autor 3**: Documentação e revisão do código.
 
-Liste as linguagens, bibliotecas e frameworks principais que foram usados no projeto, como Python, Flask, Pandas, etc. Isso é útil para quem deseja contribuir ou entender a base tecnológica.
+Se você deseja contribuir para este projeto, envie um pull request ou entre em contato com os autores.
 
-# Autores e Colaboradores
-
-Nomes dos membros do grupo e as principais contribuições de cada um. É interessante destacar quem trabalhou em qual parte do projeto.
