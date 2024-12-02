@@ -31,12 +31,16 @@ Para executar este projeto, siga os passos abaixo:
    - Processar os dados de entrada.
    - Treinar a Rede Neural Convolucional.
    - Avaliar o desempenho do modelo com base nas métricas exibidas.
+3. Para fornecer os dados:
+   - Um arquivo labels.csv contendo os rótulos das imagens já está disponível no repositório do GitHub.
+   - Caso prefira, você também pode realizar a rotulação manual diretamente no notebook, utilizando as ferramentas disponíveis.
 
-3. Para reproduzir o modelo, forneça imagens no formato correto, conforme especificado no notebook.
+4. Para reproduzir o modelo, forneça imagens no formato correto, conforme especificado no notebook.
 
 ## Estrutura dos Arquivos
 - `CNN_1_15.ipynb`: Arquivo principal do projeto contendo o código e as análises.
 - `README.md`: Este arquivo, com informações sobre o projeto.
+- `labels.csv`: Arquivo com os rótulos pré-definidos das imagens.
 - `requirements.txt`: Lista de dependências Python necessárias para executar o projeto.
 
 ## Tecnologias Utilizadas
